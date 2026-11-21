@@ -1,0 +1,15 @@
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\bin\Debug\net9.0\lab9-self-vN.exe
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\bin\Debug\net9.0\lab9-self-vN.deps.json
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\bin\Debug\net9.0\lab9-self-vN.runtimeconfig.json
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\bin\Debug\net9.0\lab9-self-vN.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\bin\Debug\net9.0\lab9-self-vN.pdb
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\lab9-self-vN.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\lab9-self-vN.AssemblyInfoInputs.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\lab9-self-vN.AssemblyInfo.cs
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\lab9-self-vN.csproj.CoreCompileInputs.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\lab9-self-vN.sourcelink.json
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\lab9-self-vN.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\refint\lab9-self-vN.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\lab9-self-vN.pdb
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\lab9-self-vN.genruntimeconfig.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork15\lab9-self-vN\obj\Debug\net9.0\ref\lab9-self-vN.dll
