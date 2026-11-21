@@ -1,0 +1,15 @@
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\bin\Debug\net9.0\IndependentWork14.exe
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\bin\Debug\net9.0\IndependentWork14.deps.json
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\bin\Debug\net9.0\IndependentWork14.runtimeconfig.json
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\bin\Debug\net9.0\IndependentWork14.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\bin\Debug\net9.0\IndependentWork14.pdb
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\IndependentWork14.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\IndependentWork14.AssemblyInfoInputs.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\IndependentWork14.AssemblyInfo.cs
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\IndependentWork14.csproj.CoreCompileInputs.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\IndependentWork14.sourcelink.json
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\IndependentWork14.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\refint\IndependentWork14.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\IndependentWork14.pdb
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\IndependentWork14.genruntimeconfig.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork14\IndependentWork14\obj\Debug\net9.0\ref\IndependentWork14.dll
