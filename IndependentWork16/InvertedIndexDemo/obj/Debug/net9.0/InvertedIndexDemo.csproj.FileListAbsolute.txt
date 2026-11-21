@@ -1,0 +1,15 @@
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\bin\Debug\net9.0\InvertedIndexDemo.exe
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\bin\Debug\net9.0\InvertedIndexDemo.deps.json
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\bin\Debug\net9.0\InvertedIndexDemo.runtimeconfig.json
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\bin\Debug\net9.0\InvertedIndexDemo.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\bin\Debug\net9.0\InvertedIndexDemo.pdb
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\InvertedIndexDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\InvertedIndexDemo.AssemblyInfoInputs.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\InvertedIndexDemo.AssemblyInfo.cs
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\InvertedIndexDemo.csproj.CoreCompileInputs.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\InvertedIndexDemo.sourcelink.json
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\InvertedIndexDemo.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\refint\InvertedIndexDemo.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\InvertedIndexDemo.pdb
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\InvertedIndexDemo.genruntimeconfig.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork16\InvertedIndexDemo\obj\Debug\net9.0\ref\InvertedIndexDemo.dll
