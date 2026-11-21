@@ -1,0 +1,15 @@
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\bin\Release\net9.0\IndependentWork12.exe
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\bin\Release\net9.0\IndependentWork12.deps.json
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\bin\Release\net9.0\IndependentWork12.runtimeconfig.json
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\bin\Release\net9.0\IndependentWork12.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\bin\Release\net9.0\IndependentWork12.pdb
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\IndependentWork12.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\IndependentWork12.AssemblyInfoInputs.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\IndependentWork12.AssemblyInfo.cs
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\IndependentWork12.csproj.CoreCompileInputs.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\IndependentWork12.sourcelink.json
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\IndependentWork12.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\refint\IndependentWork12.dll
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\IndependentWork12.pdb
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\IndependentWork12.genruntimeconfig.cache
+D:\GitHub\sr-oop-sivuk\IndependentWork18\IndependentWork12\obj\Release\net9.0\ref\IndependentWork12.dll
